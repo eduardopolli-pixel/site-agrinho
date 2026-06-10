@@ -33,22 +33,3 @@ Através de um site moderno e interativo, o projeto apresenta informações sobr
 * CSS3
 * JavaScript
 * Visual Studio Code
-
-## Estrutura do Projeto
-
-```
-AgroForte/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── README.md
-```
-
-## Mensagem Final
-
-O futuro da agricultura depende da união entre tecnologia, inovação e responsabilidade ambiental. Produzir mais, preservar os recursos naturais e garantir alimento para todos são desafios que podem ser superados com conhecimento e sustentabilidade.
-
-🌎🌱 **Agrinho 2026 - Construindo um futuro melhor através da educação e do campo.**
